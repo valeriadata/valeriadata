@@ -11,5 +11,5 @@ Me encanta el mundo de los datos y su aplicación, tanto para  fusionar mi exper
 
 
 - 💞️ Busco colaborar en proyectos de datos.
-- 👀 Tengo la fotografía como hobby.
+- 👀 Tengo la fotografía y el senderismo como hobbes.
 - 📫 Contactarme por [LinkedIn] (www.linkedin.com/in/valériamoreira)
