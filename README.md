@@ -5,9 +5,9 @@ Me encanta el mundo de los datos y su aplicación, tanto para  fusionar mi exper
 
 - 🌱 Actualmente estoy poliendo mis habilidades data con un:
 
-     🚀Máster en Big Data y Business Intelligence.
+         🚀Máster en Big Data y Business Intelligence.
 
-     🚀Certificado de profesionalidad de nivel III en Administración de Base de Datos.
+         🚀Certificado de profesionalidad de nivel III en Administración de Base de Datos.
 
 
 - 💞️ Busco colaborar en proyectos de datos.
