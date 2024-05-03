@@ -5,11 +5,11 @@ Me encanta el mundo de los datos y su aplicación, tanto para fusionar mi experi
 
  -  🏆 Mi logros:
 
-        🏅  Certificado Profesional de Análisis de Datos de Google.
+        🏅 Certificado Profesional de Análisis de Datos de Google.
         🏅 Certificado FP nivel III en Administración de Base de Datos.
 
          
--  📊  Actualmente puliendo mis habilidades de data con un:
+-  📊 Actualmente puliendo mis habilidades de data con un:
 
          🚀 Máster en Big Data y Business Intelligence.
          🚀 Certificado profesional de Microsoft Power BI Data Analyst
