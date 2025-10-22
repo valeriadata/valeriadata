@@ -4,7 +4,7 @@ _👋 Hi, I'm Valeria Moreira_
 - For Contracting Roles, send me a message on [LinkedIn] (www.linkedin.com/in/valériamoreira)
 
 
-- 🌐 Socials
+🌐 Socials
 LinkedIn X YouTube
 
 💻 Additional Tech Stack
