@@ -4,8 +4,9 @@ _👋 Hi, I'm Valeria Moreira_
 - For Contracting Roles, send me a message on www.linkedin.com/in/valériamoreira
 
 
+
 🌐 Socials
-LinkedIn X YouTube
+LinkedIn 
 
 💻 Additional Tech Stack
 Python Google Cloud Canva Figma 
