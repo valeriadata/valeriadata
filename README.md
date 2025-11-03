@@ -22,15 +22,6 @@ Visual clarity | KPI-Driven | User-centered analytics
 
 ---
 
-### 📂 Featured Projects
-- 🏬 **Adidas USA Sales Dashboard** *(Tableau)*  
-- 🚚 **Logistics KPIs & On-Time Delivery Dashboard** *(in progress)*  
-- 👥 **Customer Retention & Churn Analysis** *(in progress)*  
-
-> More dashboards coming soon...
-
----
-
 ### 🎓 Education & Certifications
 - Tableau Desktop Certified  
 - Google Data Analytics  
