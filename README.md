@@ -1,59 +1,57 @@
-## 👋 Hola, soy Valeria Moreira  
+## 👋 Hi, I'm Valeria Moreira  
 
-**Analista de Datos especializada en Tableau**  
-Publicidad y Marketing | Business Intelligence | Data Storytelling
+**Data Analyst specialized in Tableau**  
+Background in Advertising & Marketing | Business Intelligence | Data Storytelling  
 
-Me dedico a transformar datos en decisiones claras y accionables.  
-Diseño dashboards que simplifican información compleja, revelan patrones y apoyan decisiones estratégicas en contextos comerciales y operativos.
-
----
-
-### 🧠 Enfoque
-Datos → Insights → Decisiones  
-Claridad visual | KPI Driven | Usuario en el centro
+I turn data into clear, actionable insights.  
+I design dashboards that simplify complex information, uncover trends, and support strategic decision-making in commercial and operational environments.
 
 ---
 
-### 🛠️ Competencias
-**Visualización:** Tableau, Tableau Prep  
-**Análisis:** Python (básico), R (básico), Excel avanzado  
-**Datos:** SQL, MySQL, limpieza y preparación (ETL)  
-**Business:** Estrategia comercial, marketing y operaciones  
+### 🧠 Focus
+Data → Insight → Action  
+Visual clarity | KPI-Driven | User-centered analytics
 
 ---
 
-### 📂 Proyectos de Análisis
+### 🛠️ Skills
+**Visualization:** Tableau, Tableau Prep  
+**Analytics:** R (basic), Python (basic), Advanced Excel  
+**Data:** SQL, MySQL, ETL, Data Cleaning  
+**Business:** Marketing strategy, commercial analytics, operations insight  
+
+---
+
+### 📂 Featured Projects
 - 🏬 **Adidas USA Sales Dashboard** *(Tableau)*  
-- 🚚 **KPIs Logísticos & Entregas a Tiempo** *(Próximamente)*  
-- 👥 **Customer Retention & Churn Analysis** *(Próximamente)*  
+- 🚚 **Logistics KPIs & On-Time Delivery Dashboard** *(in progress)*  
+- 👥 **Customer Retention & Churn Analysis** *(in progress)*  
 
-> + Más proyectos en desarrollo...
+> More dashboards coming soon...
 
 ---
 
-### 🎓 Formación & Certificaciones
+### 🎓 Education & Certifications
 - Tableau Desktop Certified  
 - Google Data Analytics  
-- Máster en Big Data & BI *(en curso)*  
-- Publicidad y Marketing (Universitaria)
+- Master's in Big Data & BI *(in progress)*  
+- Bachelor's in Advertising & Marketing  
 
 ---
 
-### 🌍 Idiomas
-Español | Portugués | Inglés B2
+### 🌍 Languages
+Spanish | Portuguese | English (B2)
 
 ---
 
-### 📬 Conectemos
+### 📬 Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/val%C3%A9riamoreira/ 
 - 🌐 Salesforce: https://www.salesforce.com/trailblazer/vk7ndv3n71d6u1kmiv
 - 📧 Contacto: morera.valeria@gmail.com
 
----
+💛 Thanks for visiting my profile.
+If you'd like to talk about data or review dashboards together, feel free to reach out!
 
-Siempre abierta a colaborar en proyectos de datos, visualización y análisis de negocio.
 
-💛 Gracias por visitar mi perfil  
-Si te interesa hablar sobre datos o revisar dashboards, ¡escríbeme!
 
