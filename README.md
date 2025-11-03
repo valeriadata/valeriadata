@@ -44,12 +44,6 @@ Spanish | Portuguese | English (B2)
 
 ---
 
-### 📬 Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/val%C3%A9riamoreira/ 
-- 🌐 Salesforce: https://www.salesforce.com/trailblazer/vk7ndv3n71d6u1kmiv
-- 📧 Contacto: morera.valeria@gmail.com
-
 💛 Thanks for visiting my profile.
 If you'd like to talk about data or review dashboards together, feel free to reach out!
 
